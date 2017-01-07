@@ -1,0 +1,21 @@
+
+body {
+  background-color: silver;
+}
+H1{font-family:Damion, Monospace}
+H2{font-family: Handlee, Monospace}
+.red-text{
+  color:red;
+}
+.blue-text{
+  color:blue;
+}
+.cyan-text{
+  color:cyan;
+}
+.oblique{
+  font-style:oblique;
+}
+.italics{
+  font-style:italic;
+}
